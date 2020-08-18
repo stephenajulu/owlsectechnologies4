@@ -16,8 +16,10 @@ export default () => (
       <Highlight>beautiful&nbsp;digital&nbsp;products</Highlight>,&nbsp;<Highlight>brands</Highlight>&nbsp;and&nbsp;<Highlight>experiences</Highlight>
       <br />
       We help you create, grow and foster connections with your customers and users. And we believe we’re pretty good at it.
-      <br />
-      Learn more: <a href="https://owlsectechnologies4.netlify.app/about">About OwlSec</a>
+      <br />{' '}
+       <a href="https://owlsectechnologies4.netlify.app/about"  target="_blank" rel="noopener noreferrer">
+         Learn more
+      </a>
     </Intro>
           
           <hr width="75%" />
