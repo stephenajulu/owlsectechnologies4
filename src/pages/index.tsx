@@ -4,6 +4,7 @@ import { Helmet } from 'react-helmet';
 import { Intro } from 'components/intro/Intro';
 import { Highlight } from 'components/intro/Highlight';
 import { BlockText } from 'components/block-text/BlockText';
+import { Row } from 'components/row/Row';
 
 // tslint:disable no-default-export
 export default () => (
