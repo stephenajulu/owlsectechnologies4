@@ -19,6 +19,10 @@ export default () => (
           
           <hr width="75%" />
           
+           <BlockText
+      heading="About"
+      description={
+        <>
           
     <h2>What We Do</h2>
 <div class="row">
@@ -48,7 +52,9 @@ export default () => (
                 </p>
           </div>
 </div>
-          .
+  </>
+      }
+    />        .
 
 
     <BlockText
