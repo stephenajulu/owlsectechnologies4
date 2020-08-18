@@ -14,7 +14,7 @@ export default () => (
       OwlSec Technologies is a strategic I.T and Cybersecurity agency in Nairobi, Kenya.{' '} That builds&nbsp;
       <Highlight>beautiful&nbsp;digital&nbsp;products</Highlight>,&nbsp;<Highlight>brands</Highlight>&nbsp;and&nbsp;<Highlight>experiences</Highlight>
       <br />
-      OwlSec helps you create, grow and foster connections with your customers. And we think we’re pretty good at it.
+      We help you create, grow and foster connections with your customers and users. And we believe we’re pretty good at it.
     </Intro>
           
           <hr width="75%" />
@@ -24,20 +24,20 @@ export default () => (
       heading="What do we do"
       description={
         <>
-          <h4><strong>Web Development and Design</strong></h4>
+          <p><strong><b>Web Development and Design</b></strong></p>
                 <p>
                   A strong web presence attracts your target visitors and turns them into your new customers.
                   But it’s paying attention to the detail that makes all the difference.
                   A well-designed website is about far more than just its visual appearance.
                 </p> 
 <br />
-          <h4><strong>I.T and Cybersecurity Consultation</strong></h4>
+          <p><strong><b>I.T and Cybersecurity Consultation</b></strong></p>
                 <p>
                   We help you shape your strategy by going through a Consultation Session.
                   What comes out of the session is a clear understanding of your objectives, how to fix the present errors and what needs to be put in place to achieve your goals
                 </p>
 <br />                
-          <h4><strong>Web App/Site Performance, Search Engine and Security Optimization</strong></h4>
+          <p><strong><b>Web App/Site Performance, Search Engine and Security Optimization</b></strong></p>
                 <p>
                   We believe in fast, search engine and mobile friendly websites.
                   With OwlSec Technologies, we'll make sure yoru website is top notch.
@@ -52,9 +52,9 @@ export default () => (
       heading="About"
       description={
         <>
-          Want to Learn About OwlSec Technologies? Go to{' '}
-          <a href="https://owlsectechnologies4.netlify.app" target="_blank" rel="noopener noreferrer">
-            OwlSec Tech Co
+          Want to Learn About OwlSec Technologies? Go to {' '}
+          <a href="https://owlsectechnologies4.netlify.app/about" target="_blank" rel="noopener noreferrer">
+            About
           </a>
           .
         </>
