@@ -20,12 +20,9 @@ export default () => (
           <hr width="75%" />
           
           
-          <BlockText
-      heading="What do we do"
-      description={
-        <>
+    <h2>What We Do</h2>
 <div class="row">
-          <div align="left" class="column">
+          <div align="left" class="column" style="float:left;">
           <p><strong><b>Web Development and Design</b></strong></p>
                 <p>
                   A strong web presence attracts your target visitors and turns them into your new customers.
@@ -34,7 +31,7 @@ export default () => (
                 </p> 
           </div>
 <br />
-          <div align="center" class="column">
+          <div align="center" class="column" style="float:left;">
           <p><strong><b>I.T and Cybersecurity Consultation</b></strong></p>
                 <p>
                   We help you shape your strategy by going through a Consultation Session.
@@ -42,7 +39,7 @@ export default () => (
                 </p>
           </div>
 <br />     
-          <div align="right" class="column">
+          <div align="right" class="column" style="float:left;">
           <p><strong><b>Web App/Site Performance, Search Engine and Security Optimization</b></strong></p>
                 <p>
                   We believe in fast, search engine and mobile friendly websites.
@@ -52,9 +49,7 @@ export default () => (
           </div>
 </div>
           .
-        </>
-      }
-    />
+
 
     <BlockText
       heading="About"
