@@ -24,25 +24,33 @@ export default () => (
       heading="What do we do"
       description={
         <>
+<div class="row">
+          <div align="left" class="column">
           <p><strong><b>Web Development and Design</b></strong></p>
                 <p>
                   A strong web presence attracts your target visitors and turns them into your new customers.
                   But it’s paying attention to the detail that makes all the difference.
                   A well-designed website is about far more than just its visual appearance.
                 </p> 
+          </div>
 <br />
+          <div align="center" class="column">
           <p><strong><b>I.T and Cybersecurity Consultation</b></strong></p>
                 <p>
                   We help you shape your strategy by going through a Consultation Session.
                   What comes out of the session is a clear understanding of your objectives, how to fix the present errors and what needs to be put in place to achieve your goals
                 </p>
-<br />                
+          </div>
+<br />     
+          <div align="right" class="column">
           <p><strong><b>Web App/Site Performance, Search Engine and Security Optimization</b></strong></p>
                 <p>
                   We believe in fast, search engine and mobile friendly websites.
                   With OwlSec Technologies, we'll make sure yoru website is top notch.
                   We may not have been the agency in charge of building the initial website but you can be sure we'll be the agency incharge of putting your website on the top of the search list.
                 </p>
+          </div>
+</div>
           .
         </>
       }
