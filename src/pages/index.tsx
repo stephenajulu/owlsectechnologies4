@@ -22,7 +22,7 @@ export default () => (
         Headless CMS such as Netlify CMS, Forestry CMS and Contentfull among others.
         <br>
           Ensuring <Highlight>fast first contentfull paint</Highlight>,&nbsp; <Highlight>fast time to interactive</Highlight>,&nbsp; <Highlight>improved security</Highlight>,&nbsp; <Highlight>SEO</Highlight> and <Highlight>mobile friendliness</Highlight>
-          <br>
+          
             You can say we have a need for speed 😉
     </Intro>
           
