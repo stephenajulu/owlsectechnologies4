@@ -26,7 +26,7 @@ export default () => (
           
     <h2>What We Do</h2>
 <div class="row">
-          <div align="left" class="column" style="float:left;">
+          <div align="left" class="column">
           <p><strong><b>Web Development and Design</b></strong></p>
                 <p>
                   A strong web presence attracts your target visitors and turns them into your new customers.
@@ -35,7 +35,7 @@ export default () => (
                 </p> 
           </div>
 <br />
-          <div align="center" class="column" style="float:left;">
+          <div align="center" class="column">
           <p><strong><b>I.T and Cybersecurity Consultation</b></strong></p>
                 <p>
                   We help you shape your strategy by going through a Consultation Session.
@@ -43,7 +43,7 @@ export default () => (
                 </p>
           </div>
 <br />     
-          <div align="right" class="column" style="float:left;">
+          <div align="right" class="column">
           <p><strong><b>Web App/Site Performance, Search Engine and Security Optimization</b></strong></p>
                 <p>
                   We believe in fast, search engine and mobile friendly websites.
