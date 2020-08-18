@@ -17,10 +17,10 @@ export default () => (
       and 
       <Highlight>experiences</Highlight> with a lot of love and dedication.
       We believe the future is Static Progressive Web Applications that work even when offline. Therefore we use
-      <br>
+
         web technologies/framework such as Hugo, Gatsby and Gridsome.
         Headless CMS such as Netlify CMS, Forestry CMS and Contentfull among others.
-        <br>
+
           Ensuring <Highlight>fast first contentfull paint</Highlight>,&nbsp; <Highlight>fast time to interactive</Highlight>,&nbsp; <Highlight>improved security</Highlight>,&nbsp; <Highlight>SEO</Highlight> and <Highlight>mobile friendliness</Highlight>
           
             You can say we have a need for speed 😉
@@ -41,15 +41,15 @@ export default () => (
 <tbody>
   <tr>
     <td class="tg-0lax">A strong web presence attracts your target visitors and turns them into your new customers.
-<br>
+<br />
                   But it’s paying attention to the detail that makes all the difference.
-<br>
+<br />
                   A well-designed website is about far more than just its visual appearance.</td>
     <td class="tg-0lax">We help you shape your strategy by going through a Consultation Session.
-<br>
+<br />
 What comes out of the session is a clear understanding of your objectives, how to fix the present errors and what needs to be put in place to achieve your goals</td>
     <td class="tg-0lax">As we mentioned above we have a need for speed. Statistics state users will rarely spend more than 20 seconds waiting for all elements of a webpage to load before leaving.
-<br>
+<br />
       A fast, User Friendly and Search Engine Optimized website boosts user engagement and lead generation </td>
   </tr>
 </tbody>
@@ -62,16 +62,16 @@ What comes out of the session is a clear understanding of your objectives, how t
                 <h5 align="left">Web Development and Design</h5>
                 <p align="left">
                   A strong web presence attracts your target visitors and turns them into your new customers.
-<br>
+<br />
                   But it’s paying attention to the detail that makes all the difference.
-<br>
+<br />
                   A well-designed website is about far more than just its visual appearance.
                 </p> 
                 
                 <h5 align="center">I.T and Cybersecurity Consultation</h5>
                 <p align="center">
                   We help you shape your strategy by going through a Consultation Session.
-<br>
+<br />
                   What comes out of the session is a clear understanding of your objectives, how to fix the present errors and what needs to be put in place to achieve your goals
                 </p>
                 
@@ -79,7 +79,7 @@ What comes out of the session is a clear understanding of your objectives, how t
                 <p align="right">
                   
                 </p>
-          <br>
+          <br />
                 For more informations go to{' '}
           <a href="https://ueno.co" target="_blank" rel="noopener noreferrer">
             ueno.co
