@@ -11,89 +11,48 @@ export default () => (
     <Helmet title="Home" />
 
     <Intro>
-      OwlSec Technologies is a strategic I.T product and service agency in Nairobi, Kenya.{' '} That builds&nbsp;
-      <Highlight>beautiful digital products</Highlight>,&nbsp;
-      <Highlight>brands</Highlight>&nbsp;
-      and 
-      <Highlight>experiences</Highlight> with a lot of love and dedication.
-      We believe the future is Static Progressive Web Applications that work even when offline. Therefore we use
-
-        web technologies/framework such as Hugo, Gatsby and Gridsome.
-        Headless CMS such as Netlify CMS, Forestry CMS and Contentfull among others.
-
-          Ensuring <Highlight>fast first contentfull paint</Highlight>,&nbsp; <Highlight>fast time to interactive</Highlight>,&nbsp; <Highlight>improved security</Highlight>,&nbsp; <Highlight>SEO</Highlight> and <Highlight>mobile friendliness</Highlight>
-          
-            You can say we have a need for speed 😉
+      OwlSec Technologies is a strategic I.T and Cybersecurity agency in Nairobi, Kenya.{' '} That builds&nbsp;
+      <Highlight>beautiful&nbsp;digital&nbsp;products</Highlight>,&nbsp;<Highlight>brands</Highlight>&nbsp;and&nbsp;<Highlight>experiences</Highlight>
+      <br />
+      OwlSec helps you create, grow and foster connections with your customers. And we think we’re pretty good at it.
     </Intro>
           
           <hr width="75%" />
           
-<div class="tg-wrap"><table class="tg" border="0" cellpadding="5" cellspacing="0">
-<thead>
-  <tr>
-    <th class="tg-ul38">Web Development and Design</th>
-    <th class="tg-ul38">I.T and Cybersecurity Strategic Consultation</th>
-    <th class="tg-ul38">Web App/Site Performance, Search Engine and Security Optimization</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">A strong web presence attracts your target visitors and turns them into your new customers.
-
-                  But it’s paying attention to the detail that makes all the difference.
-
-                  A well-designed website is about far more than just its visual appearance.</td>
-    <td class="tg-0lax">We help you shape your strategy by going through a Consultation Session.
-      
-What comes out of the session is a clear understanding of your objectives, how to fix the present errors and what needs to be put in place to achieve your goals</td>
-    <td class="tg-0lax">As we mentioned above we have a need for speed. Statistics state users will rarely spend more than 20 seconds waiting for all elements of a webpage to load before leaving.
-
-      A fast, User Friendly and Search Engine Optimized website boosts user engagement and lead generation </td>
-  </tr>
-</tbody>
-</table></div>
           
           <BlockText
       heading="What do we do"
       description={
         <>
-                <h5 align="left">Web Development and Design</h5>
+                <h4 align="left">Web Development and Design</h4>
                 <p align="left">
                   A strong web presence attracts your target visitors and turns them into your new customers.
-
                   But it’s paying attention to the detail that makes all the difference.
-
                   A well-designed website is about far more than just its visual appearance.
                 </p> 
-                
-                <h5 align="center">I.T and Cybersecurity Consultation</h5>
+<br />
+                <h4 align="center">I.T and Cybersecurity Consultation</h4>
                 <p align="center">
                   We help you shape your strategy by going through a Consultation Session.
-
                   What comes out of the session is a clear understanding of your objectives, how to fix the present errors and what needs to be put in place to achieve your goals
                 </p>
-                
+<br />                
                 <h5 align="right">Web App/Site Performance, Search Engine and Security Optimization</h5>
                 <p align="right">
-                  
+                  We believe in fast, search engine friendly
                 </p>
-          
-                For more informations go to{' '}
-          <a href="https://ueno.co" target="_blank" rel="noopener noreferrer">
-            ueno.co
-          </a>
           .
         </>
       }
     />
 
     <BlockText
-      heading="Who we are"
+      heading="About"
       description={
         <>
-          OwlSec Technologies. For more informations go to{' '}
-          <a href="https://ueno.co" target="_blank" rel="noopener noreferrer">
-            ueno.co
+          Want to Learn About OwlSec Technologies? Go to{' '}
+          <a href="https://owlsectechnologies4.netlify.app" target="_blank" rel="noopener noreferrer">
+            OwlSec Tech Co
           </a>
           .
         </>
