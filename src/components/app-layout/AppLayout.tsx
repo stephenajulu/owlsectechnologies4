@@ -30,7 +30,6 @@ export default ({ children }: AppLayoutProps) => (
 
     <Header>
       <HeaderLink name="about" to="/about" />
-      <HeaderLink name="github" to="https://github.com/ueno-llc" icon={<Github />} />
     </Header>
 
     {children}
@@ -38,12 +37,12 @@ export default ({ children }: AppLayoutProps) => (
     <Footer
       logo={<Logo />}
       social={[
-        { icon: <Dribbble />, to: 'https://dribbble.com/ueno' },
-        { icon: <Twitter />, to: 'https://twitter.com/uenodotco' },
-        { icon: <Github />, to: 'https://github.com/ueno-llc' },
-        { icon: <Instagram />, to: 'https://www.instagram.com/uenodotco' },
-        { icon: <Facebook />, to: 'https://www.facebook.com/uenodotco' },
-        { icon: <Linkedin />, to: 'https://www.linkedin.com/company/ueno' },
+        { icon: <Dribbble />, to: 'https://dribbble.com/paracyco' },
+        { icon: <Twitter />, to: 'https://twitter.com/paracyco' },
+        { icon: <Github />, to: 'https://github.com/paracyco' },
+        { icon: <Instagram />, to: 'https://www.instagram.com/paracyco' },
+        { icon: <Facebook />, to: 'https://www.facebook.com/paracyco' },
+        { icon: <Linkedin />, to: 'https://www.linkedin.com/company/paracy' },
       ]}
     />
 
