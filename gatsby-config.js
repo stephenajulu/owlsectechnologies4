@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    title: 'OwlSec Technologies | An I.T Product and Service Provider in Nairobi, Kenya',
+    title: 'Paracy Co | An I.T & Cybersecurity Agency in Nairobi, Kenya',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -12,8 +12,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'OwlSec Technologies',
-        short_name: 'OwlSec Technologies',
+        name: 'Paracy Co',
+        short_name: 'Paracy',
         start_url: '/',
         background_color: '#663399',
         theme_color: '#000',
